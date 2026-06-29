@@ -4333,6 +4333,7 @@ export const extraRpcs = {
   369: {
     rpcs: [
       "https://rpc.pulsechain.com",
+      "https://rpc.degenprotocol.io",
       "https://rpc.gigatheminter.com",
       "https://rpc-pulsechain.g4mm4.io",
       "https://evex.cloud/pulserpc",
